@@ -1,4 +1,4 @@
-# FINANCIAL-ANALYSIS
+# FINANCIAL-ANALYSIS  USING POWER BI
 
 DATASET:
 
@@ -9,20 +9,6 @@ https://docs.google.com/spreadsheets/d/1kmZtwNrw9_M0WtZSqfjK89xXlAYUXTzr/edit?
 ## 📌 Introduction
 
 This Power BI project is developed to visualize and analyze financial data from a fictional company using the dataset `Financial Sample.xlsx`. The goal is to transform raw data into meaningful insights using interactive visuals and intuitive dashboards. This project demonstrates how business users can track performance metrics, monitor revenue trends, and evaluate product profitability in a dynamic and insightful way.
-
-
-
-
-
-
-
-
-
-![image](https://github.com/user-attachments/assets/cc1c37a0-4937-499a-920b-7420e748ad81)
-
-
-
-
 
 
 
@@ -63,6 +49,12 @@ The Power BI dashboard includes:
 
 5. **Time-based Filtering**
    - Year and Month slicers for dynamic filtering
+
+
+
+![image](https://github.com/user-attachments/assets/cc1c37a0-4937-499a-920b-7420e748ad81)
+
+
 
 ## 🎯 Conclusion
 
